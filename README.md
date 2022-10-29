@@ -8,7 +8,7 @@
 <!-- ## **I'm a Junior Full Stack Software Engineer** -->
 
 <a href="https://github.com/abdulawalsuhail">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=3000&color=FFFFFF&vCenter=true&width=500&height=80&lines=I+am+a+Programmer;I+am+a+Professional+graphic+designe;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=3000&color=FFFFFF&vCenter=true&width=500&height=80&lines=I+am+a+MERN+Stack+Developer;"/>
 </a>
 
 <p>I'm passionate About Front-End Web Development. I know how important user interface design is in the field of website development.
