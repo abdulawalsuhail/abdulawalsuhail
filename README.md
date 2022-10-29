@@ -1,6 +1,6 @@
 
 
-<img src="https://i.ibb.co/0Dx0WYv/Github-cover.jpg"/>
+<img src="https://i.ibb.co/LPmrNhD/cover.jpg"/>
 
 
 ### **Hi, I'm [Md Abdul Awal Suhail][facebook]** :wave:
@@ -59,6 +59,7 @@ dedication.</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **Activity Graph &#8595;**
  <a href="https://www.facebook.com/abdulawalsuhail">
+  <img src="https://activity-graph.herokuapp.com/graph?username=abdulawalsuhail&theme=react-dark" />
  </a>
  <br/>
 
